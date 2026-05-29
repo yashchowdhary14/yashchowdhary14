@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-chowdhary" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-chowdhary-bb8557266" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:yashchowdhary14@gmail.com" target="_blank">
@@ -154,7 +154,7 @@ I am a results-oriented **Software Engineer** specializing in building scalable 
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-chowdhary" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-chowdhary-bb8557266" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:yashchowdhary14@gmail.com" target="_blank">
